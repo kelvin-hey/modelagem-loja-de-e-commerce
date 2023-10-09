@@ -17,3 +17,21 @@ Este repositório contém os diagramas utilizados no desenvolvimento de um siste
 
 #### Cadastrar dados pessoais
 <img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/cadastrar_dados_pessoais.png"></a>
+
+#### Validar cliente
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/validar_cliente.png"></a>
+
+#### Atender cliente
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/atender_cliente.png"></a>
+
+#### Atualizar produtos
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/atualizar_produtos.png"></a>
+
+#### Adicionar produtos ao carrinho de compras
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/adicionar_produtos_carrinho.png"></a>
+
+#### Adicionar a lista de desejos
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/adicionar_lista_desejos.png"></a>
+
+#### Inserir cupom de desconto
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-produtos-naturais/blob/main/inserir_cupom_desconto.png"></a>
