@@ -1,7 +1,7 @@
-<h2 align="center"><b>Modelagem de um sistema para Lojas de Produtos Naturais</b></h2>
+<h2 align="center"><b>Modelagem de um sistema para Lojas de E-commerce</b></h2>
 
 ### Descrição
-Este repositório contém os diagramas utilizados no desenvolvimento de um sistema para Lojas de Produtos Naturais.
+Este repositório contém os diagramas utilizados no desenvolvimento de um sistema para Lojas de E-commerce.
 
 ### Diagrama de Casos de uso
 
