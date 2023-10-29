@@ -1,6 +1,6 @@
-<h2 align="center"><b>Modelagem de um sistema para Lojas de E-commerce</b></h2>
+<!-- <h2 align="center"><b>Modelagem de um sistema para Lojas de E-commerce</b></h2> -->
 
-<img src="https://github.com/kelvin-hey/modelagem-loja-de-e-commerce/blob/main/wall.jpeg"/>
+<img src="https://github.com/kelvin-hey/modelagem-loja-de-e-commerce/blob/main/wall.png"/>
 
 ### Descrição
 Este repositório contém os diagramas utilizados no desenvolvimento de um sistema para Lojas de E-commerce.
