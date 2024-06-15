@@ -1,6 +1,16 @@
-<!-- <h2 align="center"><b>Modelagem de um sistema para Lojas de E-commerce</b></h2> -->
+<p align="center">
+  <img height="128px" src="https://github.com/kelvin-hey/modelagem-loja-de-e-commerce/blob/main/banner.png"/>
+</p>
 
-<img src="https://github.com/kelvin-hey/modelagem-loja-de-e-commerce/blob/main/wall.png"/>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/kelvin-hey/modelagem-loja-de-e-commerce">
+  <img src="https://img.shields.io/github/license/kelvin-hey/modelagem-loja-de-e-commerce">
+  <img src="https://img.shields.io/github/repo-size/kelvin-hey/modelagem-loja-de-e-commerce">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+</p>
 
 ### Descrição
 Este repositório contém os diagramas utilizados no desenvolvimento de um sistema para Lojas de E-commerce.
